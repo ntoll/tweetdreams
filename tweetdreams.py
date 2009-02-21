@@ -112,4 +112,4 @@ class Dream(object):
             result.append(newword)
             w1, w2 = w2, newword
 
-        return (' '.join(result))[:140]
+        return (' '.join(result))[:MAX_LENGTH]

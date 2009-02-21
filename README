@@ -1,0 +1,15 @@
+A library that generates new Tweets based upon the status histories of the
+specified user's friends.
+
+In a poetic sense, it creates dreams from the Jungian collective (un)conscience
+that is the status history of your friends.
+
+Depends on the Python/Twitter library found here:
+
+    http://code.google.com/p/python-twitter/
+
+Much of the code for the Markov chain was adapted from that found here:
+
+    http://code.activestate.com/recipes/194364/
+
+Hacked together in about an hour on an idle Friday evening...
